@@ -1,0 +1,35 @@
+_repo: Souvenirs-concernant-Jules-Lagneau_72071
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alain-Fournier
+    aliases:
+    - Fournier, Henri-Alban
+    - Fournier, Alain
+    - Alain-Fournier, Henri
+    birthdate: 1886
+    deathdate: 1914
+    gutenberg_agent_id: '1872'
+    url: http://www.gutenberg.org/2009/agents/1872
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alain-Fournier
+    - https://fr.wikipedia.org/wiki/Alain-Fournier
+description: ''
+gutenberg_issued: '2023-11-08'
+identifiers:
+  gutenberg: '72071'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bd6t5368357j/f13.item
+pgterms:marc905: 20231107115802alain
+pgterms:marc906: '1925'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bGallimard, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Souvenirs concernant Jules Lagneau
+url: http://www.gutenberg.org/ebooks/72071
