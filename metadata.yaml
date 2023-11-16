@@ -1,5 +1,8 @@
 _repo: Souvenirs-concernant-Jules-Lagneau_72071
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72071-h/images/cover.jpg
 creator:
   author:
     agent_name: Alain-Fournier
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Alain-Fournier
     - https://fr.wikipedia.org/wiki/Alain-Fournier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72071#Souvenirs-concernant-Jules-Lagneau
 gutenberg_issued: '2023-11-08'
 identifiers:
   gutenberg: '72071'
